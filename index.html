@@ -28,10 +28,18 @@
 
                 <form action="">
 
-                    <input required type="text" placeholder="First Name" />
-                    <input required type="text" placeholder="Las Name" />
-                    <input required type="email" placeholder="Email Address" />
-                    <input required type="password" placeholder="Password" />
+                    <input required type="text" name="firstName"  id="firstName" value=""  placeholder="First Name" />
+                    <span class="error-message">First Name cannot be empty</span>
+
+                    <input required type="text" name="lastName" id="lastName" value="" placeholder="Las Name" />
+                    <span class="error-message">Last Name cannot be empty</span>
+
+                    <input required type="email" name="email" id="email" value=""  placeholder="Email Address" />
+                    <span class="error-message">Looks like this is not an email</span>
+
+                    <input required type="password" name="password" id="password" value="" placeholder="Password" />
+                    <span class="error-message">Password cannot be empty</span>
+
                     <button type="submit">CLAIM YOUR FREE TRIAL</button>
                     <p>
                         By clicking the button you are agreeing to our <span> Terms and Services </span>
