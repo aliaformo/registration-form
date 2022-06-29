@@ -1,7 +1,15 @@
-# Registration Form
-Build a single-page responsive registration form
-## This is a task for I4GxZuri
+## 📝 This is a task for I4GxZuri
+### ✍ Instructions
+- Build a single-page responsive registration form using the desig
 
-## Thank you I4GxZuri Team and Mentors
+🔧 Tools
+- Html 5
+- CSS 3
+- Visual Studio Code Editor
+- Git
+- GitHub repository
+- Github pages
+
+#### ⭐ Thanks I4GxZuri Team and Mentors 🏅
 
 
