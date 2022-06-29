@@ -1,8 +1,10 @@
 ## 📝 This is a task for I4GxZuri
-### ✍ Instructions
+## 📜 Task Title: 
+Responsiveness and Media Queries
+### ✍ Instructions:
 - Build a single-page responsive registration form using the design
 
-### 🔧 Tools
+### 🔧 Tools:
 - Html 5
 - CSS 3
 - Visual Studio Code Editor
